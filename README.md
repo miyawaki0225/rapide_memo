@@ -15,7 +15,7 @@
   - 今回のスプリントの振り返り、進め方や技術に関するシェア
   - 次回のスプリントでやることの決定、進め方調整の決定
 
-参考資料
+参考資料  
 [アジャイル開発とは？　特徴とメリット・デメリット、スクラムまで徹底解説](https://monstar-lab.com/dx/solution/about-agile_methods/)
 [5分で分かる、「スクラム」の基本まとめ](https://atmarkit.itmedia.co.jp/ait/articles/1208/07/news128.html)
 
@@ -171,4 +171,14 @@ Lv4 プロジェクトでの開発環境構築の方針を決めることがで�
 → 手取り足取り、Lv1~2の人教えられるレベル感。
 （VS Codeだけかもしれないです。gitに.vscode をシェアしたりして、揃えたりすることアリ）
 ```
+
+[Git-flowって何？ - Qiita](https://qiita.com/KosukeSone/items/514dd24828b485c69a05)
+[Git-flowをざっと整理してみた | DevelopersIO](https://dev.classmethod.jp/articles/introduce-git-flow/)
+[【Git-Flow+PR】プロジェクトをGit-Flowに移行してみた。](https://zenn.dev/akino/articles/1dcecd60009dbb)
+
+（参考）チケット駆動開発
+[チケット駆動開発を上手に運用するためのプラクティス（ゲストブログ）](https://www.atlassian.com/ja/blog/tidd-part2)
+[チケット駆動開発の解説～タスク管理からプロセス改善へ](https://www.slideshare.net/akipii.oga/ss-250996606)
+[https://azu.github.io/slide/workflow/git-redmine-tidd.html#slide1](https://azu.github.io/slide/workflow/git-redmine-tidd.html#slide1)
+
 
