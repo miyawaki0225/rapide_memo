@@ -21,6 +21,11 @@
 
 - 新しい言語するときは結構公式doc見る、ネットで調べる以外、Kindle Unlimitedに登録しているので、がーって言語やFWでタイトルを調べてとりあえず3,4冊目次みて、ななめよみしたり、ネットでも本でも一冊（or 1記事、1シリーズ）読んだら簡単なアプリケーションが作れる系のものを選んで、作りながら読んだりしている気がします。
 
+## 設計
+- [要件定義](https://notepm.jp/template/requirement-definition)
+- [要件定義と要求定義の違い](https://qiita.com/sunstripe2011/items/61df719fb1f6178b2605)
+
+
 ## 命名規則系
 - [新人エンジニアに役立った命名規則6選とアンチパターン3選 - Qiita](https://qiita.com/tatsuya_1995/items/4b706fc40fe2f300bbc0)
 - [データベースオブジェクトの命名規約 - Qiita](https://qiita.com/genzouw/items/35022fa96c120e67c637)
@@ -95,16 +100,6 @@ Step7 Step6で合意をとれた内容を元に、恒久対策（根本的な解
 
 - [障害対応の流れ：事前準備、一次対応、恒久対策の実行](https://www.rworks.jp/monitoring/monitoring-column/monitoring-design/25595/)
 
-
-- [要件定義](https://notepm.jp/template/requirement-definition)
-- [要件定義と要求定義の違い](https://qiita.com/sunstripe2011/items/61df719fb1f6178b2605)
-
-
-- [Spring boot における静的ファイルのアクセス優先順位 - Qiita](https://qiita.com/TKR/items/4ec3733d44c9d2b618ee)
-- [知ってるようで知らない YAML のご紹介](https://engineers.ntt.com/entry/2021/09/10/100708)
-- エディタの便利機能：矩形選択(VSCodeだと Defaultは Alt + Ctr)
-
-
 ## Git
 - [Gitソースコードのバージョン管理や 共同開発を可能にするツール](https://prog-8.com/courses/git)
 - [git](https://qiita.com/RubyLrving/items/6ae8bff333d72f8cb21e)
@@ -142,10 +137,15 @@ rebase
 - [エープリルフールなのでJavaScriptの信じがたい話をします](https://qiita.com/suin/items/461c096bef318a259c80)
 
 
-## その他ツール
+## その他
 - [StackEdit　（webでマークダウン）](https://stackedit.io/)
 - [TickTick(タスク管理ツール)](https://ticktick.com/home)
 - [pocket](https://getpocket.com/ja/)
+
+- [Spring boot における静的ファイルのアクセス優先順位 - Qiita](https://qiita.com/TKR/items/4ec3733d44c9d2b618ee)
+- [知ってるようで知らない YAML のご紹介](https://engineers.ntt.com/entry/2021/09/10/100708)
+- エディタの便利機能：矩形選択(VSCodeだと Defaultは Alt + Ctr)
+
 
 なんか刺激をもらいたいとき    
 - https://dribbble.com/search  
