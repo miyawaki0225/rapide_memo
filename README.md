@@ -117,6 +117,10 @@ rebase
 ```
 
 ## JavaScript
+- [MDN Web Docs](https://developer.mozilla.org/ja/)
+- [Event - Web API | MDN](https://developer.mozilla.org/ja/docs/Web/API/Event)
+- [Chrome Developers](https://developer.chrome.com/docs/devtools/)
+- [Chrome DevToolsのConsoleパネルの超簡単な使い方 - Qiita](https://qiita.com/aqril_1132/items/a0f7e81a772006847ec3)
 - [モダンフロント開発に必須の知識(ES2015~ES2022まとめ + 高階関数)](https://qiita.com/c-shiraga/items/33812799e4dc17d89b44)
 - [エープリルフールなのでJavaScriptの信じがたい話をします](https://qiita.com/suin/items/461c096bef318a259c80)
 
