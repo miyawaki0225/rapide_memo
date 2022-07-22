@@ -126,6 +126,7 @@ rebase
 
 
 ## その他
+- [次世代SQLクライアントArctypeを触ってみる](https://arctype.com/desktop-login/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjNWExZGU5Ny1mMjUxLTQ2NjMtODlkZi1lZWRhNzQ1OTY1MWMiLCJpYXQiOjE2NTg0NjU2MTUsImV4cCI6MTY1ODQ2NjUxNSwiYXVkIjoiaHR0cHM6Ly9hcmN0eXBlLmNvbSIsImlzcyI6Imh0dHBzOi8vYXJjdHlwZS5jb20ifQ.1YiEmwAUPOgzdUal9eROnLrpfToMjHa4O8YQ9lNgeAg)
 - [VSCodeでDraw.ioが使えるようになったらしい！](https://qiita.com/riku-shiru/items/5ab7c5aecdfea323ec4e)
 - [StackEdit　（webでマークダウン）](https://stackedit.io/)
 - [TickTick(タスク管理ツール)](https://ticktick.com/home)
