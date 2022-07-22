@@ -126,6 +126,7 @@ rebase
 
 
 ## その他
+- [VSCodeでDraw.ioが使えるようになったらしい！](https://qiita.com/riku-shiru/items/5ab7c5aecdfea323ec4e)
 - [StackEdit　（webでマークダウン）](https://stackedit.io/)
 - [TickTick(タスク管理ツール)](https://ticktick.com/home)
 - [pocket](https://getpocket.com/ja/)
