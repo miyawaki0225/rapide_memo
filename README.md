@@ -135,7 +135,8 @@ rebase
 - [Spring boot における静的ファイルのアクセス優先順位 - Qiita](https://qiita.com/TKR/items/4ec3733d44c9d2b618ee)
 - [知ってるようで知らない YAML のご紹介](https://engineers.ntt.com/entry/2021/09/10/100708)
 - エディタの便利機能：矩形選択(VSCodeだと Defaultは Alt + Ctr)
-
+- [ジュニア、ミドル、シニア開発者の違い](https://devskiller.com/jp/%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2%E3%83%BB%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC/)
+- [ロジックツリー](https://www.missiondrivenbrand.jp/entry/thinking_logictree)
 
 なんか刺激をもらいたいとき    
 - https://dribbble.com/search  
